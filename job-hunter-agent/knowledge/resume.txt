@@ -1,0 +1,98 @@
+# Minjae Lee
+**Data Analyst**
+
+📧 minjae.lee.jay@gmail.com | 📱 +1 646 457 1844  
+🌐 LinkedIn: http://www.linkedin.com/in/kkrlee | GitHub: https://www.github.com/minjaelee0522
+📍 New York, New York
+
+---
+
+## Professional Summary
+
+Passionate about turning complex data into actionable insights, I am a results-driven Data Scientist with expertise in data analysis. With a Master's degree in Data Analytics and Visualization from Yeshiva University and a BBA in Statistics and Quantitative Modeling from Baruch College, I possess a strong educational foundation to support my practical experience.
+---
+
+## Technical Skills
+
+**Languages:** Python, R, Spark  
+**Databases:** MySQL, PostgreSQL, Snowflake, Amazon Redshift  
+**Framework:** Numpy, Pandas, Scipy, Sklearn, Seaborn, PyTorch, TensorFlow, Selenium, Scrapy, BeautifulSoup  
+**Tools:** AWS, Tableau, Power BI, Google Analytics, Docker, Apache Airflow, Git, Looker  
+**Methodology:** A/B Testing, Data Analytics, Data Visualization, Business Intelligence, Data Modeling
+**Statistical Tools:** Linear Regression, Ridge/LASSO/regularization, Logistic Regression, Random Forest, K-means, Naïve Bayes,
+Gradient Boosting, Support Vector Machines, Principal Component Analysis, Time Series Analysis
+
+---
+
+## Professional Experience
+
+### Data Scientist Intern
+**Jems New York** | Englewood, New Jersey | *May 2024 - August 2024*
+
+- Conducted deep-dive analyses on customer behavior data, identifying key trends that informed a new customer loyalty program,
+increasing retention rates by 16%.
+- Implemented machine learning techniques to analyze customer behavior, increasing retention rates by 18% and boosting client
+engagement by 12%.
+- Engineered a natural language processing pipeline to parse and analyze user feedback, increasing the accuracy of sentiment analysis
+by 9% and helping prioritize product updates.
+
+### Data Analyst Intern
+**Jems New York** | Englewood, New Jersey | *May 2023 - August 2023*
+
+- Assisted in developing data visualization dashboards using Tableau, which helped track and improve department KPIs, boosting overall
+departmental performance by 22%.
+- Collaborated with the marketing team to segment customer data, which led to a 15% increase in targeted campaign effectiveness.
+- Collaborated with IT teams to enhance data integrity before analysis, which improved the accuracy of business intelligence reports by
+30%.
+
+### Data Analyst
+**AthomeTrip** | New York, New York | *January 2021 - January 2023*
+
+- Utilized SQL and Python to create comprehensive business reports, aiding strategic decision-making and improving revenue by 11%.
+- Developed a customer segmentation algorithm in Python, optimizing sales leads by 17% within a year.
+- Collaborated with leadership teams to review and update marketing, sales, finance and project management KPIs, leading to a 5%
+increase in customer retention.
+
+### Data Analyst Intern
+**Pathfinder.vet** | New York, New York | *May 2019 - August 2019*
+
+- Empowered the team by designing and implementing A/B testing for marketing processes, resulting in a 19% improvement in the
+conversion rate and a significant 16% reduction in churn.
+- Collaborated with senior analysts to clean and preprocess raw data, improving dataset quality and reducing data processing errors by
+25%.
+- Leveraged data analysis of email campaign data to identify opportunities and skillfully implemented targeted email marketing
+strategies, boosting email click-through rates by 20%.
+
+---
+
+## Education
+
+### Master of Science in Data Analytics and Visualization
+**Yeshiva University** | New York, New York | *2023 - 2025*
+
+**Relevant Coursework:** Python, Tableau, SQL, Data Management, Data Analytics, Data Storytelling, Machine Learning, Data Science
+
+### BBA in Statistics and Quantitative Modeling
+**Baruch College** | New York, New York | *2026 - 2020*
+
+---
+
+## Projects
+
+### Data Engineering of Public Safety
+*Python, AWS, PostgreSQL, Tableau*
+- Engineered a robust data pipeline to process NYC traffic violation data, employing AWS services for scalable data ingestion,
+transformation, and analysis, driving actionable insights on public safety.
+- Developed and optimized data workflows within a team, ensuring efficient data extraction, loading, and transformation processes,
+which enabled detailed traffic trend analysis and strategic decision-making.
+
+### Sentiment Data Analysis of Amazon's Decaying Product
+*Python*
+- Processed data from 12,101 unique ASINs and performing exploratory data analysis on 4,242 products available in 2021.
+- Identified the top 10 products with the highest drop in ratings within each category, resulting in actionable insights for product
+improvement and a measurable decrease in customer sentiment scores by an average of 0.5 points.
+
+### Data Analysis - Top Streaming
+*Python*
+- Conducted data analysis on 27K movies and television programs across five major companies: Amazon Prime, Disney Plus, HBO Max,
+Hulu and Netflix, delivering influential recommendations for top streaming options and helping users make informed decisions.
