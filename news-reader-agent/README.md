@@ -20,4 +20,4 @@ Creates the final report based on the summaries, including major articles, break
 
 ## 📘 Workflow Diagram
 
-![News Reader Agent Diagram](news_reader_agent_diagram.png)
+![News Reader Agent Diagram]<img src="news_reader_agent_diagram.png" alt="News Reader Agent Diagram" width="50%" height="50%">
