@@ -21,3 +21,9 @@ Conducts in-depth research on target companies to gather strategic insights usef
 
 ### Interview Preparation Agent
 Generates comprehensive interview preparation materials—such as predicted interview questions and study plans—based on the collected information.
+
+---
+
+## 📘 Workflow Diagram 
+
+<img src="job_hunter_agent_diagram.png" alt="Job Hunter Agent Diagram" width="50%" height="50%">
