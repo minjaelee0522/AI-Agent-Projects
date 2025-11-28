@@ -21,3 +21,5 @@ Aggregates the results from the three agents and produces a final investment rep
 The report is stored through ADK persistence for long-term tracking.
 
 ---
+
+<img src="financial-agent-workflow.png" alt="Financial Agent Diagram" width="100%" height="50%">
