@@ -29,4 +29,4 @@ Processes text-to-speech narration scripts using the GPT-4o Mini TTS model to pr
 ---
 
 ## 📘 Workflow Diagram
-<img src="youtube_shorts_maker_agent_diagram.png" alt="YouTube Shorts Maker Agent Diagram" width="50%" height="50%">
+<img src="youtube_shorts_maker_agent_diagram.png" alt="YouTube Shorts Maker Agent Diagram" width="100%" height="50%">
