@@ -1,29 +1,32 @@
 # YouTube Shorts Maker Agent
 
 ## 🎯 Goal
-Build a system that automatically produces YouTube Shorts videos from a given topic.
+Build a system that automatically produces YouTube Shorts videos from a provided topic.
 
 ---
 
 ## 🤝 Cooperative Agents
 
-### Content Planning Agent
-Analyzes the topic and determines a detailed video scenario down to the second — including narration tone, visual concepts, and text overlays.
+### 🎬 Content Planning Agent
+Analyzes the topic and structures a detailed second-by-second scenario, including narration tone, visual concepts, and text overlays.
 
-### Asset Generation Agent
-Generates required images and narration according to the planned scenario.  
-Uses OpenAI’s DALL-E for image creation, and a TTS model for voice narration.
+### 🖼️ Asset Generation Agent
+Generates all required images and narration according to the planned scenario.  
+Uses OpenAI’s DALL·E model for images, and a TTS model for generating narration.
 
-### Video Editing Agent
-Combines generated images and voice assets along a timeline, then renders a final 1080x1920 resolution video using FFmpeg.
+### 🎥 Video Editing Agent
+Combines the generated images and narration along a timeline, then renders the final 1080×1920 Shorts video (MP4) using FFmpeg.
 
-### Image Production Agent
-Converts optimized prompts into 9:16 image assets using the GPT-Image-1 model.
+### 🧩 Image Production Agent
+Transforms optimized prompts into 9:16 vertical images using the GPT-Image-1 model.
 
-### Prompt Writing Agent
-Creates optimized prompts based on scene descriptions and sends them to the Image Production Agent.
+### ✍️ Prompt Writing Agent
+Creates optimized prompts based on scene descriptions that are easily understood by the image-generation AI, then provides them to the Image Production Agent.
 
-### Audio Generation Agent
-Converts text-based narration scripts into high-quality audio files using the GPT-4o Mini TTS model.
+### 🗣️ Audio Generation Agent
+Processes text-to-speech narration scripts using the GPT-4o Mini TTS model to produce high-quality voice-over audio files.
 
 ---
+
+## 📘 Workflow Diagram
+<img src="video-creation-workflow.png" alt="YouTube Shorts Maker Agent Diagram" width="100%" height="50%">
